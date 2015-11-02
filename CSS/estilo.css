@@ -1,0 +1,77 @@
+body{
+    background-image: url("../img/musica.jpg");
+    background-repeat: no-repeat;
+}
+#contendor{
+    width: 700px;
+    margin: 50px auto;
+    padding-top: 25px;
+    background-color: rgba(150,150,150,0.80);
+    color:whitesmoke;
+}
+
+.formulario{
+    
+}
+h2{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3em;
+    color:blue;
+}
+
+.formulario p{
+    text-align: center;
+    font-size: 1.3em;
+    color:blue;
+}
+
+.formulario label{
+    font-size: 1.2em;
+    margin: 2%;
+    padding: 2%;
+}
+.formulario button{
+    margin: 20px 100px 20px
+}
+.formulario li{
+    text-align: center;
+    list-style: none;
+}
+.formulario a{
+    color:whitesmoke;
+    text-decoration: none;
+    font-family: serif;
+    font-size: 1.1em;
+}
+
+.formulario a:hover{
+    color:crimson;
+}
+.formulario a:visited{
+    color: inherit;
+}
+.izquierda{
+    width: 45%;
+    height: 100px;
+    float: left;
+}
+.derecha{
+    width: 45%;
+    height: 100px;
+    float: right;
+}
+#reproductor{
+    margin: 0 auto;
+    text-align: center;
+}
+#volver{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
